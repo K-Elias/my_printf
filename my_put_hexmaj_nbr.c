@@ -1,13 +1,3 @@
-/*
-** my_put_hexmaj_nbr.c for maj in /home/abouss_e/rendu/PSU_2015_my_printf
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Fri Apr 15 11:24:21 2016 elias aboussair
-** Last update Sun Apr 17 18:05:29 2016 elias aboussair
-*/
-
 #include <unistd.h>
 #include "my.h"
 
