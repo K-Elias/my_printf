@@ -1,13 +1,3 @@
-##
-## Makefile for makefile in /home/abouss_e/rendu/PSU_2015_my_printf
-##
-## Made by elias aboussair
-## Login   <abouss_e@epitech.net>
-##
-## Started on  Sun Apr 17 19:05:17 2016 elias aboussair
-## Last update Sun Apr 17 23:30:13 2016 elias aboussair
-##
-
 POINT_C	= my_put_binary_nbr.c \
 	  my_putchar.c \
 	  my_putchar_mod.c \
