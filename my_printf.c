@@ -1,13 +1,3 @@
-/*
-** my_printf.c for printf in /home/abouss_e/rendu/PSU_2015_my_printf
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Fri Apr 15 16:41:31 2016 elias aboussair
-** Last update Mon Apr 18 12:36:50 2016 elias aboussair
-*/
-
 #include <stdlib.h>
 #include "my.h"
 
