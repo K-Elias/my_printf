@@ -1,13 +1,3 @@
-/*
-** my_put_oct_nbr_spe.c for spe in /home/abouss_e/rendu/PSU_2015_my_printf
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Sat Apr 16 19:04:36 2016 elias aboussair
-** Last update Sun Apr 17 22:25:08 2016 elias aboussair
-*/
-
 #include <stdlib.h>
 #include "my.h"
 
