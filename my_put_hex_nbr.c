@@ -1,13 +1,3 @@
-/*
-** my_put_hex_nbr.c for hex in /home/abouss_e/rendu/PSU_2015_my_printf
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Tue Apr 12 22:08:25 2016 elias aboussair
-** Last update Sun Apr 17 22:24:26 2016 elias aboussair
-*/
-
 #include <unistd.h>
 #include "my.h"
 
