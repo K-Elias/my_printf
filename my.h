@@ -1,13 +1,3 @@
-/*
-** my.h for my_h in /home/abouss_e/rendu/PSU_2015_my_printf
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Fri Apr 15 17:59:12 2016 elias aboussair
-** Last update Mon Apr 18 12:37:00 2016 elias aboussair
-*/
-
 #ifndef MY_H_
 # define MY_H_
 
